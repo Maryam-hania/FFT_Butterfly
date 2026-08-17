@@ -1,0 +1,7 @@
+# Simulation & ModelSim temp files
+work/
+transcript
+*.wlf
+*.vcd
+*.log
+*.mti
