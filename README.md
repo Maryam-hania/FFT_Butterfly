@@ -104,7 +104,7 @@ To save the waveform for your report: **File > Export > Waveform...**
 (or right-click the wave pane) → save as `.png` for the report, or
 **File > Save Format...** to keep a `.do` file that reopens the same view.
 
-## 6. Design justification (short)
+## 6. Design justification
 
 - **4-cycle FSM instead of fully combinational**: keeps each pipeline stage
   (multiply, scale, add) as a single clocked register-to-register path,
